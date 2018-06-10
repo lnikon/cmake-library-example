@@ -3,7 +3,7 @@
 namespace nukle {
 
 template <class T>
-class Dictionary {
+class Yourlib {
 public:
     const char* return_cstring()
     {
